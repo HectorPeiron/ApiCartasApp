@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ApiCartasApp</string>
+    <string name="main_menu_title">Main menu</string>
+    <string name="cartas">Cards</string>
+    <string name="tiendas">Shops</string>
+    <string name="see_button">See</string>
+    <string name="modify_button">Modify</string>
+    <string name="delete_button">Delete</string>
+    <string name="main_menu_label">Main Menu</string>
+    <string name="add_carta_actionbar">Add CARD</string>
+    <string name="carta_nombre_label">Card name</string>
+    <string name="carta_tipo_label">Card type</string>
+    <string name="carta_coleccion_label">Card collection</string>
+    <string name="anioSalida_carta_label">Card relase date</string>
+    <string name="add_button">ADD</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="ask_delete_carta_message">Are you sure delete card?</string>
+    <string name="delete_carta_title">Delete card</string>
+    <string name="confirm_button">CONFIRM</string>
+    <string name="ask_modify_carta_message">Are you sure modify card?</string>
+    <string name="modify_carta_title">Modify card</string>
+    <string name="add_tienda_actionbar">ADD</string>
+    <string name="see_maps">Map</string>
+    <string name="nombre_tienda_label">Shop name</string>
+    <string name="direccion_tienda_label">Shop place</string>
+    <string name="codigoPosta_tienda_label">Shop codigo postal</string>
+    <string name="telefono_tienda_label">Shop telephone number</string>
+    <string name="email_tienda_label">Shop email</string>
+
+    <string name="choose_location_message">Choose locaton</string>
+    <string name="ask_delete_tienda_message">Are you sure delete shop?</string>
+    <string name="delete_tienda_message">Delete shop</string>
+    <string name="add_fav_carta_button">Add Fav</string>
+    <string name="fav_carta_actionbar">Fav card</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiaGVjdG9yc3ZhbGVybyIsImEiOiJjbGlkNzJldXYwNnVyM2tvOHJpdDB2dDJ6In0.8xdigEv_fxiVIQ9a-moc9w</string>
+
+    <string name="home">Home</string>
+    <string name="ask_modify_tienda_message">Are you sure modify shop?</string>
+    <string name="modify_tienda_title">Modify shop</string>
+</resources>
