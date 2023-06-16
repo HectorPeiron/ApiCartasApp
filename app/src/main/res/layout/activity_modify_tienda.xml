@@ -84,6 +84,7 @@
 
         <Button
             android:id="@+id/confirm_modify_tienda_button"
+            style="android:attr/buttonBarButtonStyle"
             android:layout_width="136dp"
             android:layout_height="60dp"
             android:layout_weight="1"
@@ -92,6 +93,7 @@
 
         <Button
             android:id="@+id/cancel_modify_tienda_button"
+            style="android:attr/buttonBarButtonStyle"
             android:layout_width="136dp"
             android:layout_height="60dp"
             android:layout_weight="1"
